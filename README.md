@@ -10,5 +10,7 @@ Mod de funcționare:
 - În timpul funcționării, dacă temperatura:
 
 -- scade sub pragul setat, se pornește alimentarea pentru elementul de încălzire;
+
 -- ajunge la nivelul pragului setat, se oprește atât alimentarea elementului de încălzire cât și a motorului ventilatorului;
+
 -- crește peste pragul setat, se oprește alimentarea elementului de încălzire și se pornește alimentarea motorului ventilatorului.
