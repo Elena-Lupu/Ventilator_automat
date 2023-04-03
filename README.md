@@ -1,6 +1,6 @@
 # Ventilator_automat
 
-Ventilator cu element de încălzire care poate atât să recircule auerul, cât să-l și încălzească. Își modifică modul de funcționare automat pe baza senzorului de temperatură.
+Ventilator cu element de încălzire care poate atât să recircule aerul, cât să-l și încălzească. Își modifică modul de funcționare automat pe baza senzorului de temperatură.
 
 În acest repository ar trebui să se regăsească codul Python pentru microcontroller RaspberryPi Pico și schema electrică a proiectului.
 
